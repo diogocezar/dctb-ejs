@@ -1,0 +1,28 @@
+{
+  "name": "dctb-ejs",
+  "version": "1.0.0",
+  "description": "Simple example of EJS with NodeJs and Express usage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diogocezar/dctb-ejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diogocezar/dctb-ejs/issues"
+  },
+  "homepage": "https://github.com/diogocezar/dctb-ejs#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "express-ejs-layouts": "^2.3.1",
+    "faker": "^4.1.0",
+    "nodemon": "^1.12.1"
+  }
+}
